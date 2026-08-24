@@ -8,5 +8,15 @@
     "average": 350,
     "accuracy": 83,
     "savedAt": "2026-08-24T16:40:35.960Z"
+  },
+  {
+    "player": "Grey",
+    "difficulty": "medium",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 0,
+    "average": 272,
+    "accuracy": 100,
+    "savedAt": "2026-08-24T16:41:57.789Z"
   }
 ]

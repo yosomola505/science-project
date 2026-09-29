@@ -42,5 +42,16 @@
     "average": 415,
     "accuracy": 83,
     "savedAt": "2026-09-29T19:30:19.314Z"
+  },
+  {
+    "player": "SF5",
+    "gamingExperience": "some_games",
+    "difficulty": "medium",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 1,
+    "average": 367,
+    "accuracy": 83,
+    "savedAt": "2026-09-29T19:58:14.421Z"
   }
 ]

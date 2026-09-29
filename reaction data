@@ -53,5 +53,16 @@
     "average": 367,
     "accuracy": 83,
     "savedAt": "2026-09-29T19:58:14.421Z"
+  },
+  {
+    "player": "SM6",
+    "gamingExperience": "a_lot_of_games",
+    "difficulty": "hard",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 1,
+    "average": 344,
+    "accuracy": 83,
+    "savedAt": "2026-09-29T20:00:03.053Z"
   }
 ]

@@ -163,5 +163,16 @@
     "average": 341,
     "accuracy": 100,
     "savedAt": "2026-11-08T17:30:09.223Z"
+  },
+  {
+    "player": "SM16",
+    "gamingExperience": "some_games",
+    "difficulty": "easy",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 45,
+    "average": 387,
+    "accuracy": 10,
+    "savedAt": "2026-11-08T17:33:17.419Z"
   }
 ]

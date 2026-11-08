@@ -174,5 +174,16 @@
     "average": 387,
     "accuracy": 10,
     "savedAt": "2026-11-08T17:33:17.419Z"
+  },
+  {
+    "player": "SM17",
+    "gamingExperience": "some_games",
+    "difficulty": "medium",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 1,
+    "average": 370,
+    "accuracy": 83,
+    "savedAt": "2026-11-08T17:36:08.419Z"
   }
 ]

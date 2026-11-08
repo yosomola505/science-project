@@ -141,5 +141,16 @@
     "average": 377,
     "accuracy": 83,
     "savedAt": "2026-11-08T17:24:58.584Z"
+  },
+  {
+    "player": "SF14",
+    "gamingExperience": "a_lot_of_games",
+    "difficulty": "medium",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 0,
+    "average": 361,
+    "accuracy": 100,
+    "savedAt": "2026-11-08T17:29:21.330Z"
   }
 ]

@@ -130,5 +130,16 @@
     "average": 324,
     "accuracy": 100,
     "savedAt": "2026-09-30T18:32:28.430Z"
+  },
+  {
+    "player": "SF13",
+    "gamingExperience": "a_lot_of_games",
+    "difficulty": "easy",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 1,
+    "average": 377,
+    "accuracy": 83,
+    "savedAt": "2026-11-08T17:24:58.584Z"
   }
 ]

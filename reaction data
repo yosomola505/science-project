@@ -262,5 +262,16 @@
     "average": 461,
     "accuracy": 71,
     "savedAt": "2026-11-09T21:15:12.172Z"
+  },
+  {
+    "player": "SM25",
+    "gamingExperience": "no_games",
+    "difficulty": "hard",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 2,
+    "average": 422,
+    "accuracy": 71,
+    "savedAt": "2026-11-09T21:21:41.575Z"
   }
 ]

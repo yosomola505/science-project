@@ -251,5 +251,16 @@
     "average": 370,
     "accuracy": 83,
     "savedAt": "2026-11-09T04:51:01.707Z"
+  },
+  {
+    "player": "SF24",
+    "gamingExperience": "no_games",
+    "difficulty": "medium",
+    "rounds": 5,
+    "correct": 5,
+    "misses": 2,
+    "average": 461,
+    "accuracy": 71,
+    "savedAt": "2026-11-09T21:15:12.172Z"
   }
 ]
